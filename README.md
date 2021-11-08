@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning computer vision at BoostCamp AI Tech.
+- 🌱 I’m currently learning Computer Vision and NLP at BoostCamp AI Tech.  
