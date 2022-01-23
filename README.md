@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h3 align="center"><b>Hi there 👋</b></h3>
 
 
-<p align="center">
-🔭 I’m currently looking for a job while studying on my own.
-🌱 I learned Computer Vision and NLP at BoostCamp AI Tech. 
+<!-- <p align="center"> -->
+- 🔭 I’m currently looking for a job while studying on my own.
+- 🌱 I learned Computer Vision and NLP at BoostCamp AI Tech. 
 
  ---
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
