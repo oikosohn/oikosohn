@@ -1,5 +1,6 @@
 <h3 align="center"><b>Hi there 👋</b></h3>
 
+<!-- <p align="center"> -->
 
 
  ---
@@ -21,7 +22,6 @@
 <!--
 **oikosohn/oikosohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- <p align="center"> -->
 - 🌱 I learned Computer Vision and NLP at `BoostCamp AI Tech` and `Wanted Preonboarding`. 
 
 Here are some ideas to get you started:
