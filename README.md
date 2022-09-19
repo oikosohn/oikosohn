@@ -2,7 +2,7 @@
 
 <!-- <p align="center"> -->
 
-
+<!--
  ---
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
@@ -17,12 +17,6 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
 
-
-
-<!--
-**oikosohn/oikosohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🌱 I learned Computer Vision and NLP at `BoostCamp AI Tech` and `Wanted Preonboarding`. 
 
 Here are some ideas to get you started:
 
